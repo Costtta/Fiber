@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.bg-darkviolet{
+    background-color: #4D13D1;
+}
+
+.text-darkviolet{
+    color: #4D13D1;
+}
+
+.bg-grayish{
+    background-color: #FBF8F3;
+}
+
+.my{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.mt-center{
+    margin-top: 165px;
+}
+
+.ps-7{
+    padding-left: 70px;
+}
+
+.relative{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+    left: 60px;
+    bottom: 25px;
+}
+
+.absolute2{
+    position: absolute;
+    left: 60px;
+    top: 20px;
+}
+
