@@ -1,0 +1,32 @@
+.text-blueviolet{
+    color:#4D13D1;
+}
+
+.bg-blueviolet{
+    background-color: #4D13D1;
+}
+
+.pt-9{
+    padding-top: 130px;
+}
+
+.pe-29{
+    padding-right: 290px;
+}
+
+.px-20{
+    padding-left: 160px;
+    padding-right: 160px;
+}
+
+.end-42{
+    left: 454px;
+}
+
+.top-25{
+    top: 10px;
+}
+
+i{
+    cursor: pointer;
+}
